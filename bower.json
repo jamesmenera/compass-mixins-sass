@@ -1,12 +1,11 @@
 {
-  "name": "compass-mixins",
+  "name": "compass-mixins-sass",
   "version": "0.12.3",
   "authors": [
-    "Guillaume Balaine <igosuki@gmail.com>",
-    "Michael Heillein <nichaek>"
+    "James Menera <menerajames@gmail.com>"
   ],
-  "description": "Compass stylesheets",
-  "main": "lib/_compass.scss",
+  "description": "Compass stylesheets for the \".sass\" syntax",
+  "main": "lib/_compass.sass",
   "keywords": [
     "compass",
     "mixins",
