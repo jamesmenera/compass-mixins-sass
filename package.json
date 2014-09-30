@@ -2,20 +2,20 @@
   "name": "compass-mixins",
   "version": "0.12.3",
   "author": {
-    "name": "Guillaume Balaine",
-    "email": "igosuki@gmail.com",
-    "url": "https://github.com/Igosuki"
+    "name": "James Menera",
+    "email": "menerajames@gmail.com",
+    "url": "https://github.com/jamesmenera"
   },
   "contributors": [{
     "name": "Michael Heillein",
     "url": "https://github.com/michaek"
   }],
-  "description": "Compass stylesheets",
+  "description": "Compass stylesheets for \".sass\" syntax",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Igosuki/compass-mixins.git"
+    "url": "git://github.com/jamesmenera/compass-mixins-sass.git"
   },
-  "main": "lib/_compass.scss",
+  "main": "lib/_compass.sass",
   "keywords": [
     "compass",
     "mixins",
